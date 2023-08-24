@@ -1,3 +1,4 @@
+// Java program that takes a number as input and prints its multiplication table upto 10.
 class firsta
 {
 public static void main(String a[])

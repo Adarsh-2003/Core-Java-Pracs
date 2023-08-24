@@ -1,3 +1,4 @@
+// Java program to convert a decimal number to binary number and vice versa.
 import java.io.*;
 public class twob
 {

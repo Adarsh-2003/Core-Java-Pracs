@@ -1,3 +1,4 @@
+// Java function that calculates the sum of digits for a given char array consisting of the digits '0' to '9'. The function should return the digit sum as a long value
 import java.util.*;
 class threeb
 {

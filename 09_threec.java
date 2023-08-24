@@ -1,3 +1,4 @@
+// Java program to find the smallest and largest element from the array
 public class threec
 {
 public static void main(String args[])

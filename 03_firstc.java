@@ -1,3 +1,4 @@
+// Java program to print the area and perimeter of a circle.
 class firstc
 {
 public static void main(String a[])
